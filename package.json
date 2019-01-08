@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Learning Git and Node",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglaspetrin/git-test.git"
+  },
+  "author": "Douglas Petrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglaspetrin/git-test/issues"
+  },
+  "homepage": "https://github.com/douglaspetrin/git-test#readme"
+}
